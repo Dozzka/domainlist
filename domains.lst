@@ -1,4 +1,2 @@
-nftset=/zerolab.net/4#inet#fw4#vpn_domains
-nftset=/ipify.org/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains
-nftset=/iplocation.net/4#inet#fw4#vpn_domains
+nftset=/downloads.malwarebytes.com/4#inet#fw4#vpn_domains
