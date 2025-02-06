@@ -2,4 +2,4 @@ nftset=/chatgpt.com/4#inet#fw4#vpn_domains
 nftset=/downloads.malwarebytes.com/4#inet#fw4#vpn_domains
 nftset=/gaming.lenovo.com/4#inet#fw4#vpn_domains
 nftset=/auth.openai.com/4#inet#fw4#vpn_domains
-nftset=/2ip.ru/4#inet#fw4#vpn_domains
+nftset=/speedtest.net/4#inet#fw4#vpn_domains
