@@ -4,3 +4,4 @@ nftset=/gaming.lenovo.com/4#inet#fw4#vpn_domains
 nftset=/auth.openai.com/4#inet#fw4#vpn_domains
 nftset=/iapi.qt.io/4#inet#fw4#vpn_domains
 nftset=/spotify.com/4#inet#fw4#vpn_domains
+nftset=/myfonts.com/4#inet#fw4#vpn_domains
