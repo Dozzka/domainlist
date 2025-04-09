@@ -7,3 +7,4 @@ nftset=/spotify.com/4#inet#fw4#vpn_domains
 nftset=/myfonts.com/4#inet#fw4#vpn_domains
 nftset=/mirom.ezbox.idv.tw/4#inet#fw4#vpn_domains
 nftset=/docker.com/4#inet#fw4#vpn_domains
+nftset=/4pda.to/4#inet#fw4#vpn_domains
