@@ -12,3 +12,5 @@ nftset=/4pda.to/4#inet#fw4#vpn_domains
 nftset=/rutracker.org/4#inet#fw4#vpn_domains
 nftset=/api.ipify.org/4#inet#fw4#vpn_domains
 nftset=/nnm-club-me.ru/4#inet#fw4#vpn_domains
+nftset=/torproject.org/4#inet#fw4#vpn_domains
+
