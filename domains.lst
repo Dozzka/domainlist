@@ -1,4 +1,5 @@
 nftset=/cdn.oaistatic.com/4#inet#fw4#vpn_domains
+nftset=/mbamupdates.com/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains
 nftset=/auth.openai.com/4#inet#fw4#vpn_domains
 nftset=/downloads.malwarebytes.com/4#inet#fw4#vpn_domains
@@ -14,4 +15,5 @@ nftset=/rutracker.cc/4#inet#fw4#vpn_domains
 nftset=/api.ipify.org/4#inet#fw4#vpn_domains
 nftset=/nnm-club-me.ru/4#inet#fw4#vpn_domains
 nftset=/torproject.org/4#inet#fw4#vpn_domains
+
 
