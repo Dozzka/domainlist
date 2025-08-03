@@ -1,3 +1,4 @@
+nftset=/.ua/4#inet#fw4#vpn_domains
 nftset=/cdn.oaistatic.com/4#inet#fw4#vpn_domains
 nftset=/mbamupdates.com/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains
@@ -10,10 +11,15 @@ nftset=/myfonts.com/4#inet#fw4#vpn_domains
 nftset=/mirom.ezbox.idv.tw/4#inet#fw4#vpn_domains
 nftset=/docker.com/4#inet#fw4#vpn_domains
 nftset=/4pda.to/4#inet#fw4#vpn_domains
-nftset=/rutracker.org/4#inet#fw4#vpn_domains
-nftset=/rutracker.cc/4#inet#fw4#vpn_domains
 nftset=/api.ipify.org/4#inet#fw4#vpn_domains
 nftset=/nnm-club-me.ru/4#inet#fw4#vpn_domains
 nftset=/torproject.org/4#inet#fw4#vpn_domains
-
+nftset=/sponsor.ajay.app/4#inet#fw4#vpn_domains
+nftset=/rutor.info/4#inet#fw4#vpn_domains
+nftset=/rutor.is/4#inet#fw4#vpn_domains
+nftset=/rutor.org/4#inet#fw4#vpn_domains
+nftset=/rutracker.cc/4#inet#fw4#vpn_domains
+nftset=/rutracker.net/4#inet#fw4#vpn_domains
+nftset=/rutracker.org/4#inet#fw4#vpn_domains
+nftset=/rutracker.wiki/4#inet#fw4#vpn_domains
 
