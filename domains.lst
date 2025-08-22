@@ -24,9 +24,3 @@ nftset=/rutracker.net/4#inet#fw4#vpn_domains
 nftset=/rutracker.org/4#inet#fw4#vpn_domains
 nftset=/rutracker.wiki/4#inet#fw4#vpn_domains
 nftset=/soundcloud.com/4#inet#fw4#vpn_domains
-nftset=/sndcdn.com/4#inet#fw4#vpn_domains
-
-
-
-
-
