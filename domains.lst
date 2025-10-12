@@ -25,6 +25,9 @@ nftset=/rutracker.org/4#inet#fw4#vpn_domains
 nftset=/rutracker.wiki/4#inet#fw4#vpn_domains
 nftset=/soundcloud.com/4#inet#fw4#vpn_domains
 nftset=/jetbrains.com/4#inet#fw4#vpn_domains
+nftset=/openh264.org/4#inet#fw4#vpn_domains
+
+
 
 
 
