@@ -32,6 +32,9 @@ nftset=/splunkcloud.com/4#inet#fw4#vpn_domains
 nftset=/autodesk.com/4#inet#fw4#vpn_domains
 nftset=/cloudflareinsights.com/4#inet#fw4#vpn_domains
 nftset=/discordapp.com/4#inet#fw4#vpn_domains
+nftset=/gta.fandom.com/4#inet#fw4#vpn_domains
+
+
 
 
 
